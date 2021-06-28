@@ -1,1 +1,46 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",AstroTV
+http://pascaltv.site:8080/F12611/b199b47b/195789?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Cine Gold Katastrophen
+http://dragoniptv.iptf.me:8080/123/123/23109?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Cine Gold Katastrophen FHD
+http://pascaltv.site:8080/F12611/b199b47b/266443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE Astro TV (P)
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/1486005?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Undefined",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",Astro Vaanavil
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Canal 25 Barbastro
+http://grlts.faststr.com:2082/siditman_999243/EPl6zYXQ/113343?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Canal 25 Barbastro
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/113343?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="Undefined",Canal 25 Barbastro
+http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Canal 25 Barbastro TV
+http://pascaltv.site:8080/F12611/b199b47b/269930?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Undefined",Astro AOD HD 311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Undefined",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Astro Oasis
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Astro Prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="Undefined",Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Astro Super Sports 3
+http://sofadad.co.uk:80/Sarah123/Sarah123/212402?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Astro Vaanavil
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Undefined",Astro 华丽台 (Astro Wah Lai Toi)
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Undefined",Astro 欢喜台 (Astro Hua Hee Dai)
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=320&height=320" group-title="Undefined",Canal 25 Barbastro TV
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?checkedby:iptvcat.com
 
